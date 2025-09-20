@@ -14,6 +14,10 @@
 
 ###
 
+<p align="left">📃[My CV](https://drive.google.com/file/d/1CJPmCQkPN0n6KaZDKbOphKNzkxX3efLS/view?usp=drive_link)</p>
+
+###
+
 <p align="left">📧Contacts</p>
 
 ###
