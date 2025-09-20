@@ -14,10 +14,8 @@
 
 ###
 
-<a href="https://drive.google.com/file/d/1CJPmCQkPN0n6KaZDKbOphKNzkxX3efLS/view?usp=drive_link" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/20/000000/document.png" style="vertical-align:middle; margin-right:5px;" />
-  View My CV
-</a>
+[📄 View My CV](https://drive.google.com/file/d/1CJPmCQkPN0n6KaZDKbOphKNzkxX3efLS/view?usp=drive_link)
+
 
 
 
