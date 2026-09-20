@@ -14,7 +14,7 @@
 
 ###
 
-[📄 View My CV](https://drive.google.com/file/d/1CJPmCQkPN0n6KaZDKbOphKNzkxX3efLS/view?usp=drive_link)
+[📄 View My CV](https://drive.google.com/file/d/1F2gOhlXsfBXdLSjkWTUWWmJCK71Z-1gj/view?usp=drive_link)
 
 
 
